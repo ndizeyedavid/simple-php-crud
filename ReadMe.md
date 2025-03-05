@@ -1,4 +1,4 @@
-# PHP Assessment Project
+# PHP National examination Project correction(Rwanda Driving License)
 
 ## Description
 
@@ -26,6 +26,9 @@ PASSWORD = 123
 - Responsive design
 - Form validation
 - Database integration
+- Sessions
+- Foreign key
+- mellow😁
 
 ## Project Structure
 
