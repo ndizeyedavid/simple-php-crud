@@ -33,7 +33,7 @@ PASSWORD = 123
 ## Project Structure
 
 ```
-PHP-CRUD/
+simple_php_crud/
 |── css/
 ├── database/
 ├── html/
